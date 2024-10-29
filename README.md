@@ -4,3 +4,6 @@
  + 10/29
 - 對應網頁
  + [https://portfolio.mackliu.com/game-01/index.html](https://portfolio.mackliu.com/game-01/index.html)
+
+
+[http://cs102.nihs.tp.edu.tw/game/tet.html](http://cs102.nihs.tp.edu.tw/game/tet.html)
