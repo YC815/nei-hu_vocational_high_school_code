@@ -5,7 +5,7 @@
 - 對應網頁
   + [https://portfolio.mackliu.com/game-01/index.html](https://portfolio.mackliu.com/game-01/index.html)
 
-## Tetris99.js
+## [Tetris99.js](https://github.com/YC815/nei-hu_vocational_high_school_code/blob/main/Tetris99.js)
 - 製作日期
   + 10/31
 - 對應網頁
