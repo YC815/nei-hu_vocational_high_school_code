@@ -1,5 +1,16 @@
-for (let y = 0; y < 18; y++) { // 這裡的 18 代表條數
+line = 0;
+$("#line").text(line);
+function fillLine(y) {
     for (let x = 0; x < countX; x++) {
-        board[x + y * countX] = 0; // 使用顏色索引 0 填滿每一行
+        board[x + y * countX] = 0;
     }
+    line++;
+    $("#line").text(line);
+    check();
+
+    if (line >= 18) return;
+
+    setTimeout(() => fillLine(y + 1), 500);
 }
+
+fillLine(10);
