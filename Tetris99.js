@@ -5,6 +5,7 @@ function fillLine(y) {
         board[x + y * countX] = 0;
     }
     line++;
+    down()
     $("#line").text(line);
     check();
 
