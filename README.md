@@ -11,5 +11,10 @@
 - 對應網頁
   + [http://cs102.nihs.tp.edu.tw/game/tet.html](http://cs102.nihs.tp.edu.tw/game/tet.html)
 
+## [site_1.html](https://github.com/YC815/nei-hu_vocational_high_school_code/blob/main/site_1.html)
+- 製作日期
+  + 11/5
+ 
+  
 # 常用網站
 - [Textarea Online](https://textarea.online)
