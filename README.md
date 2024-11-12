@@ -20,5 +20,11 @@
   + 11/12
 - 對應網頁
   + [https://ani.gamer.com.tw/](https://ani.gamer.com.tw/)
+
+## [MemoryCardFlip2.js](https://github.com/YC815/nei-hu_vocational_high_school_code/blob/d4332e8efa69044f71dca76b9adacee815f9fc16/MemoryCardFlip2.js)
+- 製作日期
+  + 11/12
+- 對應網頁
+  + [https://portfolio.mackliu.com/game-01/index.html](https://portfolio.mackliu.com/game-01/index.html)
 # 常用網站
 - [Textarea Online](https://textarea.online)
