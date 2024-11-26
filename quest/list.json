@@ -1,0 +1,1432 @@
+[
+    {
+        "question_number": 1,
+        "question": "腕道症候群常發生於下列何種作業？",
+        "options": {
+            "A": "電腦鍵盤作業",
+            "B": "潛水作業",
+            "C": "堆高機作業",
+            "D": "第一種壓力容器作業"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 2,
+        "question": "下列何者可做為電氣線路過電流保護之用？",
+        "options": {
+            "A": "變壓器",
+            "B": "電阻器",
+            "C": "避雷器",
+            "D": "熔絲斷路器"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 3,
+        "question": "安全門或緊急出口平時應維持何狀態？",
+        "options": {
+            "A": "門可上鎖但不可封死",
+            "B": "與一般進出門相同，視各樓層規定可開可關",
+            "C": "門應關上但不可上鎖",
+            "D": "保持開門狀態以保持逃生路徑暢通"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 4,
+        "question": "對於依照個人資料保護法應告知之事項，下列何者不在法定應告知的事項內？",
+        "options": {
+            "A": "個人資料利用之期間、地區、對象及方式",
+            "B": "蒐集之目的",
+            "C": "蒐集機關的負責人姓名",
+            "D": "如拒絕提供或提供不正確個人資料將造成之影響"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 5,
+        "question": "因故意或過失而不法侵害他人之營業秘密者，負損害賠償責任該損害賠償之請求權，自請求權人知有行為及賠償義務人時起，幾年間不行使就會消滅？",
+        "options": {
+            "A": "2年",
+            "B": "5年",
+            "C": "7年",
+            "D": "10年"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 6,
+        "question": "身為專業技術工作人士，應以何種認知及態度服務客戶？",
+        "options": {
+            "A": "主動告知可能碰到問題及預防方法",
+            "B": "遇到維修問題，儘量拖過保固期",
+            "C": "隨著個人心情來提供服務的內容及品質",
+            "D": "若客戶不瞭解，就儘量減少成本支出，抬高報價"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 7,
+        "question": "2015年巴黎協議之目的為何？",
+        "options": {
+            "A": "避免臭氧層破壞",
+            "B": "減少持久性污染物排放",
+            "C": "遏阻全球暖化趨勢",
+            "D": "生物多樣性保育"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 8,
+        "question": "「聖嬰現象」是指哪一區域的溫度異常升高？",
+        "options": {
+            "A": "東太平洋表層海水",
+            "B": "西太平洋表層海水",
+            "C": "東印度洋表層海水",
+            "D": "西印度洋表層海水"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 9,
+        "question": "都市中常產生的「熱島效應」會造成何種影響？",
+        "options": {
+            "A": "增加降雨",
+            "B": "空氣污染物不易擴散",
+            "C": "空氣污染物易擴散",
+            "D": "溫度降低"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 10,
+        "question": "酸雨對土壤可能造成的影響，下列何者正確？",
+        "options": {
+            "A": "土壤更肥沃",
+            "B": "土壤液化",
+            "C": "土壤中的重金屬釋出",
+            "D": "土壤礦化"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 11,
+        "question": "我國已制定能源管理系統標準為",
+        "options": {
+            "A": "CNS 50001",
+            "B": "CNS 12681",
+            "C": "CNS 14001",
+            "D": "CNS 22000"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 12,
+        "question": "下列何者燈泡發光效率最高？",
+        "options": {
+            "A": "LED燈泡",
+            "B": "省電燈泡",
+            "C": "白熾燈泡",
+            "D": "鹵素燈泡"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 13,
+        "question": "澆花的時間何時較為適當，水分不易蒸發又對植物最好？",
+        "options": {
+            "A": "正中午",
+            "B": "下午時段",
+            "C": "半夜十二點",
+            "D": "清晨或傍晚"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 14,
+        "question": "台灣是屬缺水地區，每人每年實際分配到可利用水量是世界平均值的多少？",
+        "options": {
+            "A": "六分之一",
+            "B": "五分之一",
+            "C": "四分之一",
+            "D": "二分之一"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 15,
+        "question": "電源插座堆積灰塵可能引起電氣意外火災，維護保養時的正確做法是？",
+        "options": {
+            "A": "可以先用刷子刷去積塵",
+            "B": "直接用吹風機吹開灰塵就可以了",
+            "C": "應先關閉電源總開關箱內控制該插座的分路開關",
+            "D": "可以用金屬接點清潔劑噴在插座中去除銹蝕"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 16,
+        "question": "有關二進位數的表示法，下列何者「不正確」？",
+        "options": {
+            "A": "101",
+            "B": "1A",
+            "C": "1",
+            "D": "11001"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 17,
+        "question": "在處理器中位址匯流排有32條，可以定出多少記憶體位址？",
+        "options": {
+            "A": "512MB",
+            "B": "1GB",
+            "C": "2GB",
+            "D": "4GB"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 18,
+        "question": "有關資料表示，下列何者「不正確」？",
+        "options": {
+            "A": "1Byte=8bits",
+            "B": "1KB= 210Bytes",
+            "C": "1MB=215Bytes",
+            "D": "1GB= 230Bytes"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 19,
+        "question": "下列何者是「美國標準資訊交換碼」的簡稱？",
+        "options": {
+            "A": "ASCII",
+            "B": "CNS",
+            "C": "IEEE",
+            "D": "ISO"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 20,
+        "question": "下列何者為專有名詞「WWW」之中文名稱？",
+        "options": {
+            "A": "區域網路",
+            "B": "網際網路",
+            "C": "全球資訊網",
+            "D": "社群網路"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 21,
+        "question": "下列何者不是合法的 IP 位址？",
+        "options": {
+            "A": "120.80.40.20",
+            "B": "140.92.1.50",
+            "C": "192.83.166.5",
+            "D": "258.128.33.24"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 22,
+        "question": "下列何者是較為安全的加密傳輸協定？",
+        "options": {
+            "A": "SSH",
+            "B": "HTTP",
+            "C": "FTP",
+            "D": "SMTP"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 23,
+        "question": "下列何者為真實的 MAC 位址？",
+        "options": {
+            "A": "00:05:J6:0D:91:K1",
+            "B": "10.0.0.1-255.255.255.0",
+            "C": "00:05:J6:0D:91:B1",
+            "D": "00:D0:A0:5C:C1:B5"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 24,
+        "question": "下列何種服務可將 Domain Name 對應為 IP 位址？",
+        "options": {
+            "A": "WINS",
+            "B": "DNS",
+            "C": "DHCP",
+            "D": "Proxy"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 25,
+        "question": "有關乙太網路 (Ethernet) 之敘述，下列何者「不正確」？",
+        "options": {
+            "A": "是一種區域網路",
+            "B": "採用 CSMA/CD 的通訊協定",
+            "C": "傳送時不保證服務品質",
+            "D": "網路長度可至 2500 公尺"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 26,
+        "question": "編譯程式 (Compiler) 將高階語言翻譯至可執行的過程中，下列何者是連結程式 (Linker) 負責連結的標的？",
+        "options": {
+            "A": "目的程式與所需之副程式",
+            "B": "原始程式與目的程式",
+            "C": "副程式與可執行程式",
+            "D": "原始程式與可執行程式"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 27,
+        "question": "下列何者為 Linux 作業系統之「系統管理者」的預設帳號？",
+        "options": {
+            "A": "administrator",
+            "B": "manager",
+            "C": "root",
+            "D": "supervisor"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 28,
+        "question": "下列何者為 Linux 系統所採用的檔案系統？",
+        "options": {
+            "A": "XFS",
+            "B": "NTFS",
+            "C": "HTFS",
+            "D": "VMFS"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 29,
+        "question": "下列何者為受僱來嘗試利用各種方法入侵系統，以發覺系統弱點的技術人員？",
+        "options": {
+            "A": "白帽駭客",
+            "B": "黑帽駭客",
+            "C": "電腦蒐證專家",
+            "D": "密碼學專家"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 30,
+        "question": "下列何種類型的病毒會自行繁衍與擴散？",
+        "options": {
+            "A": "電腦蠕蟲",
+            "B": "特洛伊木馬程式",
+            "C": "後門程式",
+            "D": "邏輯炸彈"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 31,
+        "question": "下列何種資料備份方式只有儲存當天修改的檔案？",
+        "options": {
+            "A": "完全備份",
+            "B": "遞增備份",
+            "C": "差異備份",
+            "D": "隨機備份"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 32,
+        "question": "下列何種網路攻擊手法是藉由傳遞大量封包至伺服器，導致目標電腦的網路或系統資源耗盡，服務暫時中斷或停止，使其正常用戶無法存取？",
+        "options": {
+            "A": "偷窺",
+            "B": "欺騙",
+            "C": "垃圾訊息",
+            "D": "阻斷服務"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 33,
+        "question": "下列何種網路攻擊手法是利用假節點號碼取代有效來源或目的 IP 位址之行為？",
+        "options": {
+            "A": "偷窺",
+            "B": "欺騙",
+            "C": "垃圾資訊",
+            "D": "阻斷服務"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 34,
+        "question": "下列何者「不是」資訊安全所考慮的事項？",
+        "options": {
+            "A": "確保資訊內容的機密性，避免被別人偷窺",
+            "B": "電腦執行速度",
+            "C": "確保資料內容的完整性，防止資訊被竄改",
+            "D": "定期做資料備份"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 35,
+        "question": "下列何者「不是」數位簽名的功能？",
+        "options": {
+            "A": "做為信件分類之用",
+            "B": "證明信件的來源",
+            "C": "可檢測信件是否遭竄改",
+            "D": "發信人無法否認曾發過信件"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 36,
+        "question": "在網際網路應用程式服務中，防火牆是一項確保資訊安全的裝置，下列何者「不是」防火牆檢查的對象？",
+        "options": {
+            "A": "埠號 (Port Number)",
+            "B": "資料內容",
+            "C": "來源端主機位址",
+            "D": "目的端主機位址"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 37,
+        "question": "有關電腦病毒之特性，下列何者「不正確」？",
+        "options": {
+            "A": "具有自我複製之能力",
+            "B": "病毒不須任何執行動作，便能破壞及感染系統",
+            "C": "病毒會破壞系統之正常運作",
+            "D": "病毒會寄生在開機程式"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 38,
+        "question": "下列何種網路攻擊行為係假冒公司之名義發送偽造的網站連結，以騙取使用者登入並盜取個人資料？",
+        "options": {
+            "A": "郵件炸彈",
+            "B": "網路釣魚",
+            "C": "阻絕攻擊",
+            "D": "網路謠言"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 39,
+        "question": "網站的網址以「https://」開始，表示該網站具有何種機制？",
+        "options": {
+            "A": "使用 SET 安全機制",
+            "B": "使用 SSL 安全機制",
+            "C": "使用 Small Business 機制",
+            "D": "使用 XOOPS 架設機制"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 40,
+        "question": "加密技術「不能」提供下列何種安全服務？",
+        "options": {
+            "A": "鑑別性",
+            "B": "機密性",
+            "C": "完整性",
+            "D": "可用性"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 61,
+        "question": "IPv4 位址通常是由 4 組數字所組成的，每組數字範圍為？",
+        "options": {
+            "A": "0〜255",
+            "B": "0〜512",
+            "C": "0〜999",
+            "D": "無固定範圍"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 62,
+        "question": "開放式系統互連的參考模型中，第 1 層通訊協定為？",
+        "options": {
+            "A": "傳輸層",
+            "B": "資料鏈路層",
+            "C": "實體層",
+            "D": "網路層"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 63,
+        "question": "開放式系統互連的參考模型中，第 2 層通訊協定為？",
+        "options": {
+            "A": "傳輸層",
+            "B": "資料鏈路層",
+            "C": "實體層",
+            "D": "網路層"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 64,
+        "question": "開放式系統互連的參考模型中，第 3 層通訊協定為？",
+        "options": {
+            "A": "傳輸層",
+            "B": "資料鏈路層",
+            "C": "實體層",
+            "D": "網路層"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 65,
+        "question": "開放式系統互連的參考模型中，第 4 層通訊協定為？",
+        "options": {
+            "A": "會談層",
+            "B": "應用層",
+            "C": "傳輸層",
+            "D": "表示層"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 66,
+        "question": "開放式系統互連的參考模型中，第 5 層通訊協定為？",
+        "options": {
+            "A": "會談層",
+            "B": "應用層",
+            "C": "傳輸層",
+            "D": "表示層"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 67,
+        "question": "開放式系統互連的參考模型中，第 6 層通訊協定為？",
+        "options": {
+            "A": "會談層",
+            "B": "應用層",
+            "C": "傳輸層",
+            "D": "表示層"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 68,
+        "question": "開放式系統互連的參考模型中，第 7 層通訊協定為？",
+        "options": {
+            "A": "會談層",
+            "B": "應用層",
+            "C": "傳輸層",
+            "D": "表示層"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 69,
+        "question": "ISO/OSI 參考模型將網路分為幾層？",
+        "options": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "7"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 70,
+        "question": "當資料由較低層向高層傳送時，封包標頭將會被作以下何種更動？",
+        "options": {
+            "A": "移除",
+            "B": "增加",
+            "C": "不動",
+            "D": "重排"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 71,
+        "question": "二進位數 11011100 其值為下列哪個十進位數？",
+        "options": {
+            "A": "218",
+            "B": "220",
+            "C": "222",
+            "D": "224"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 72,
+        "question": "乙太 (Ethernet) 網路 MAC 位址的長度是多少位元？",
+        "options": {
+            "A": "8",
+            "B": "16",
+            "C": "32",
+            "D": "48"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 73,
+        "question": "IPv4 目的地位址中的主機部分全為 0 代表何種涵義？",
+        "options": {
+            "A": "廣播封包",
+            "B": "群播封包",
+            "C": "測試封包",
+            "D": "該網路本身"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 74,
+        "question": "Linux 系統中，下列哪個指令可對網路卡及 IP 等相關網路參數，進行查詢及設定？",
+        "options": {
+            "A": "route",
+            "B": "netstat",
+            "C": "ifconfig",
+            "D": "ping"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 75,
+        "question": "Linux 系統中，下列哪個指令可查詢及設定路由表？",
+        "options": {
+            "A": "route",
+            "B": "netstat",
+            "C": "ifconfig",
+            "D": "ping"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 76,
+        "question": "Linux 系統中，下列哪個指令可以尋找檔案中的文字字串？",
+        "options": {
+            "A": "man",
+            "B": "mkdir",
+            "C": "find",
+            "D": "grep"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 77,
+        "question": "Linux 系統中，下列哪個目錄放置開機過程中所需之設定，其中包含開機、修復、還原系統等所需指令？",
+        "options": {
+            "A": "/etc",
+            "B": "/var",
+            "C": "/tmp",
+            "D": "/sbin"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 78,
+        "question": "Linux 系統中，下列哪個目錄置放一般使用者或正在執行程序之暫時檔案？",
+        "options": {
+            "A": "/etc",
+            "B": "/var",
+            "C": "/tmp",
+            "D": "/sbin"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 79,
+        "question": "Linux 系統中，下列哪個指令可追蹤兩部主機間各節點之路由狀況？",
+        "options": {
+            "A": "netcat",
+            "B": "host",
+            "C": "nslookup",
+            "D": "traceroute"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 80,
+        "question": "Linux 系統中，下列哪個指令可查詢 IP 位址與主機名稱之對應？",
+        "options": {
+            "A": "netcat",
+            "B": "host",
+            "C": "nslookup",
+            "D": "traceroute"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 81,
+        "question": "Linux 作業系統與微軟 Windows Server AD 的帳號資料庫，可用何種通訊協定來整合？",
+        "options": {
+            "A": "LDAP",
+            "B": "HTTP",
+            "C": "IPX",
+            "D": "UDP"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 82,
+        "question": "Linux 作業環境中，何者可記錄近期所有登入系統的使用者？",
+        "options": {
+            "A": "/var/log/dmesg",
+            "B": "/var/log/message",
+            "C": "/var/log/syslog",
+            "D": "/var/log/secure"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 83,
+        "question": "Linux 作業環境中，何者可顯示硬碟上的檔案名稱？",
+        "options": {
+            "A": "who",
+            "B": "whereis",
+            "C": "mount",
+            "D": "find"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 84,
+        "question": "Linux 作業環境中，何者可顯示檔案的內容及權限？",
+        "options": {
+            "A": "dir/p/w",
+            "B": "ls -la | more",
+            "C": "pwd",
+            "D": "cd"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 85,
+        "question": "Linux 作業環境中，何者可變更檔案與目錄之權限？",
+        "options": {
+            "A": "authority",
+            "B": "dirs",
+            "C": "chmod",
+            "D": "rights"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 86,
+        "question": "欲刪除資料表 Books 中所有資料列，其 SQL 語法為何？",
+        "options": {
+            "A": "REMOVE FROM Books",
+            "B": "DROP FROM Books",
+            "C": "DELETE FROM Books",
+            "D": "ALTER FROM Books"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 87,
+        "question": "SQL 語法 UPDATE 之正確寫法為何？",
+        "options": {
+            "A": "UPDATE bookname FROM Books WHERE id = 2 SET bookname ='哈利波特'",
+            "B": "UPDATE FROM Books WHERE id = 2 SET bookname = '哈利波特'",
+            "C": "UPDATE Books WHERE id = 2 SET bookname = '哈利波特'",
+            "D": "UPDATE Books SET bookname = '哈利波特' WHERE id = 2"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 88,
+        "question": "MariaDB 預設最高管理者 (Super User) 帳號為何？",
+        "options": {
+            "A": "localhost",
+            "B": "Administrator",
+            "C": "root",
+            "D": "空白"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 89,
+        "question": "在 Windows 作業環境中，MariaDB 預設的組態檔為何？",
+        "options": {
+            "A": "my.cnf",
+            "B": "my.ini",
+            "C": "config.inc",
+            "D": "web.config"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 90,
+        "question": "phpMyAdmin 的功用為何？",
+        "options": {
+            "A": "資料庫系統",
+            "B": "MariaDB 資料庫的管理軟體",
+            "C": "用來撰寫 PHP 程式的軟體",
+            "D": "管理 PHP 權限的軟體"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 91,
+        "question": "何種方式是駭客利用常用字集用以破解密碼的手法？",
+        "options": {
+            "A": "網路釣魚",
+            "B": "零時差攻擊",
+            "C": "連線劫持",
+            "D": "字典攻擊"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 92,
+        "question": "有些電子郵件會附上假冒知名購物網站的超連結，以竊取使用者帳號與密碼，這種入侵行為稱為？",
+        "options": {
+            "A": "網路釣魚",
+            "B": "字典攻擊",
+            "C": "暴力攻擊",
+            "D": "社交工程"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 93,
+        "question": "駭客常會冒充企業內部的員工，向系統管理員謊稱忘記使用者密碼，以盜取帳號、密碼入侵網路，這種入侵方式稱之為何？",
+        "options": {
+            "A": "網路釣魚",
+            "B": "SQL 注入",
+            "C": "社交工程",
+            "D": "零時差攻擊"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 94,
+        "question": "何種惡意程式的類型會偽裝成特殊工具程式吸引使用者下載，藉由這種方式入侵使用者的電腦？",
+        "options": {
+            "A": "開機型病毒",
+            "B": "特洛伊木馬程式",
+            "C": "蠕蟲",
+            "D": "巨集病毒"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 95,
+        "question": "Conficker 電腦病毒本身不具有破壞行為，但會自我複製程式並透過網路快速感染至其他有漏洞的電腦，此為何種電腦病毒？",
+        "options": {
+            "A": "開機型病毒",
+            "B": "特洛伊木馬",
+            "C": "巨集病毒",
+            "D": "蠕蟲"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 96,
+        "question": "一般大眾經常收到許多企業利用電子郵件濫發廣告文宣的電子郵件，此類郵件統稱為何？",
+        "options": {
+            "A": "行銷郵件",
+            "B": "垃圾郵件",
+            "C": "病毒郵件",
+            "D": "惡意郵件"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 97,
+        "question": "關於「資料隱碼攻擊 (SQL Injection)」之敘述何者最不妥當？",
+        "options": {
+            "A": "為使用者而非開發程式者造成",
+            "B": "造成資料庫資料遭竄改或外洩",
+            "C": "主要原因為程式缺乏輸入驗證",
+            "D": "可跳過驗證並入侵系統"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 98,
+        "question": "數位浮水印的主要應用為何？",
+        "options": {
+            "A": "上網撥接",
+            "B": "電子商務的安全查核",
+            "C": "網域名稱的查詢",
+            "D": "使用者管理"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 99,
+        "question": "關於遠端資料進行傳輸時，為避免資料被竊取，可以採用何種保護措施？",
+        "options": {
+            "A": "將資料壓縮",
+            "B": "將資料解壓縮",
+            "C": "將資料加密",
+            "D": "將資料解密"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 100,
+        "question": "關於資訊安全中公開鑰匙碼 (Public Key) 法之敘述何者有誤？",
+        "options": {
+            "A": "可減少因傳送 key 而發生洩密之情形",
+            "B": "傳送方與接收方各有一 key 用來編碼與解碼",
+            "C": "接收方的 key 應讓送方瞭解以供轉換",
+            "D": "接收方的 key 不必由傳送方傳送"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 101,
+        "question": "完善的資訊安全系統，應在使用者、資料、作業系統和電腦來源中設立足夠的關卡，以防止使用者透過程式去存取不屬於自己的資料，這種是屬於何種概念？",
+        "options": {
+            "A": "獨立性 (Isolation)",
+            "B": "資料取得控制 (Access Control)",
+            "C": "監視性 (Surveillance)",
+            "D": "識別 (Identification)"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 102,
+        "question": "身分證字號的最後一碼是用來做為何種檢驗？",
+        "options": {
+            "A": "範圍",
+            "B": "總數",
+            "C": "檢查號碼的正確性",
+            "D": "一致性"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 103,
+        "question": "政府機關公務內部網路系統資訊遭竊的最主要威脅來自何者？",
+        "options": {
+            "A": "社交工程與位址假造",
+            "B": "社交工程與零時差攻擊結合",
+            "C": "國際恐怖份子與國內政治狂熱者",
+            "D": "實體安全防護不佳"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 104,
+        "question": "為了防止資料庫遭破壞後無法回復，除了定期備份外，尚須進行那一項措施？",
+        "options": {
+            "A": "管制使用",
+            "B": "人工記錄",
+            "C": "隨時記錄變動日誌 (Log) 檔",
+            "D": "程式修改"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 105,
+        "question": "關於「零時差攻擊 (Zero-Day Attack)」之敘述何者最妥當？",
+        "options": {
+            "A": "在軟體弱點被發現，但尚未有任何修補方法前所出現的對應攻擊行為",
+            "B": "在午夜12點 (零點) 發動攻擊的一種病毒行為",
+            "C": "弱點掃描與攻擊發生在同一天的一種攻擊行為",
+            "D": "攻擊與修補發生在同一天的一種網路事件"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 106,
+        "question": "下列 Visual Basic.NET 程式，其執行結果為何？\nDim H, W, L, S As Integer\nH = 3: W = 4: L = 5\nS = H * W * L\nConsole.WriteLine(S)",
+        "options": {
+            "A": "0",
+            "B": "12",
+            "C": "60",
+            "D": "不能執行"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 107,
+        "question": "下列何者為 Visual Basic.NET 語言之迴圈指令？",
+        "options": {
+            "A": "If...Then",
+            "B": "Goto",
+            "C": "For...Next",
+            "D": "Dim"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 108,
+        "question": "在 Visual Basic.NET 語言中，使用函數指令 Right(A,N) 與下列何者功能相同？",
+        "options": {
+            "A": "Mid(A, Len(A)-N+1, N)",
+            "B": "Mid(A, Len(A)-N, N)",
+            "C": "Mid(A, 1, N)",
+            "D": "Mid(A, N, 1)"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 109,
+        "question": "下列 Visual Basic.NET 程式，其執行結果為何？\nDim SUM As Integer = 0\nFor I = 1 To 3\n    SUM = I^3 + I^2 + I + SUM\nNext\nConsole.WriteLine(SUM)",
+        "options": {
+            "A": "39",
+            "B": "53",
+            "C": "56",
+            "D": "1439"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 110,
+        "question": "下列 Visual Basic.NET 程式，其執行結果為何？\nDim S As Integer\nFor I = 1 to 10 Step 2\n    S = S + I\nNext\nConsole.WriteLine(S)",
+        "options": {
+            "A": "25",
+            "B": "30",
+            "C": "55",
+            "D": "110"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 111,
+        "question": "若 C++ 語言的函式有回傳值，在函式主體內要使用以下哪一個保留字？",
+        "options": {
+            "A": "void",
+            "B": "throws",
+            "C": "return",
+            "D": "invoke"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 112,
+        "question": "C++ 語言的字串使用哪一個字元標示字串的結束？",
+        "options": {
+            "A": "\\n",
+            "B": "\\0",
+            "C": "\\t",
+            "D": "\\r"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 113,
+        "question": "C++ 語言宣告陣列 int x[100]，最小索引值是以下哪一個？",
+        "options": {
+            "A": "-1",
+            "B": "0",
+            "C": "1",
+            "D": "2"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 114,
+        "question": "C++ 語言宣告陣列 int x[100]，最大索引值是以下哪一個？",
+        "options": {
+            "A": "98",
+            "B": "99",
+            "C": "100",
+            "D": "101"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 115,
+        "question": "有關 C++ 語言的變數命名，以下何者正確？",
+        "options": {
+            "A": "%abcd",
+            "B": "1abcd",
+            "C": "fruit-apple_long_name",
+            "D": "_a_long_name"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 116,
+        "question": "以下何者不是 C++ 語言整數資料型態？",
+        "options": {
+            "A": "double",
+            "B": "short",
+            "C": "byte",
+            "D": "int"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 117,
+        "question": "下列 C++ 程式，其執行結果為何？\nint i, sum = 0;\nfor (i = 1; sum < 11; i++) {\n    sum = sum + i;\n}\nprintf(\"%d\", sum);",
+        "options": {
+            "A": "10",
+            "B": "15",
+            "C": "55",
+            "D": "66"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 118,
+        "question": "C++ 程式指令 printf(\"%6.2f\", 597.7258); 執行後輸出為以下哪一個？",
+        "options": {
+            "A": "6.2",
+            "B": "597.72",
+            "C": "597.73",
+            "D": "000597.73"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 119,
+        "question": "C++ 語言的方法中，以下哪一個保留字可以代表物件本身？",
+        "options": {
+            "A": "String",
+            "B": "hidden",
+            "C": "default",
+            "D": "this"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 120,
+        "question": "下列 C++ 程式，其執行結果為何？\nint i, sum = 0;\nfor (i = 1; i <= 5; i++) {\n    if (i % 2 == 0)\n        continue;\n    sum = sum + i;\n}\nprintf(\"%d\", sum);",
+        "options": {
+            "A": "5",
+            "B": "9",
+            "C": "15",
+            "D": "25"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 121,
+        "question": "C++ 語言的條件運算子 ?: 是以下哪一個敘述的縮寫？",
+        "options": {
+            "A": "if",
+            "B": "if...else",
+            "C": "switch",
+            "D": "for"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 122,
+        "question": "Java 語言中的 main() 函式的回傳型態為何？",
+        "options": {
+            "A": "int",
+            "B": "void",
+            "C": "float",
+            "D": "String"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 123,
+        "question": "Java 語言中，表示浮點數的資料型態為何？",
+        "options": {
+            "A": "double 和 float",
+            "B": "float 和 int",
+            "C": "double 和 int",
+            "D": "char 和 float"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 124,
+        "question": "Java 語言中，下列何者表示常數？",
+        "options": {
+            "A": "use",
+            "B": "static",
+            "C": "const",
+            "D": "final"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 125,
+        "question": "Java 語言的物件是由哪一個關鍵字來建立的？",
+        "options": {
+            "A": "object",
+            "B": "create",
+            "C": "new",
+            "D": "this"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 126,
+        "question": "在 Java 語言中，字元是用哪一種資料型態表示？",
+        "options": {
+            "A": "char",
+            "B": "string",
+            "C": "Character",
+            "D": "int"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 127,
+        "question": "Java 語言中，字串用哪一個類別來表示？",
+        "options": {
+            "A": "String",
+            "B": "Char",
+            "C": "Character",
+            "D": "Array"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 128,
+        "question": "Java 語言中的陣列是由下列哪一個關鍵字來宣告的？",
+        "options": {
+            "A": "array",
+            "B": "new",
+            "C": "static",
+            "D": "public"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 129,
+        "question": "Java 語言中，方法的參數可以是？",
+        "options": {
+            "A": "基本資料型態",
+            "B": "物件",
+            "C": "陣列",
+            "D": "以上皆是"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 130,
+        "question": "下列何者是 Java 語言中提供給程式開發者的一種「例外處理」機制？",
+        "options": {
+            "A": "try...catch",
+            "B": "if...else",
+            "C": "switch...case",
+            "D": "for...next"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 131,
+        "question": "在 Java 語言中，若要定義一個不可繼承的類別，應該使用哪一個關鍵字？",
+        "options": {
+            "A": "static",
+            "B": "final",
+            "C": "private",
+            "D": "protected"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 132,
+        "question": "Java 語言中的繼承是由哪一個關鍵字表示？",
+        "options": {
+            "A": "extends",
+            "B": "implement",
+            "C": "inherit",
+            "D": "super"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 133,
+        "question": "在 Java 語言中，父類別的方法被子類別重新定義的行為稱為？",
+        "options": {
+            "A": "繼承",
+            "B": "多載",
+            "C": "覆寫",
+            "D": "覆蓋"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 134,
+        "question": "在 Java 語言中，下列何者用於存取父類別的成員？",
+        "options": {
+            "A": "this",
+            "B": "that",
+            "C": "parent",
+            "D": "super"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 135,
+        "question": "在 Java 語言中，若要使用接口 (Interface)，應該用哪一個關鍵字？",
+        "options": {
+            "A": "extend",
+            "B": "implements",
+            "C": "interface",
+            "D": "abstract"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 136,
+        "question": "Java 語言的特性之一為「一次編譯，到處執行」，其主要原因是什麼？",
+        "options": {
+            "A": "硬體支援",
+            "B": "虛擬機器 (JVM)",
+            "C": "程式碼優化",
+            "D": "多核心處理器"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 137,
+        "question": "Java 語言中，若要實現多執行緒 (Thread)，應該繼承下列哪一個類別？",
+        "options": {
+            "A": "Process",
+            "B": "Runnable",
+            "C": "Thread",
+            "D": "Executor"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 138,
+        "question": "在 Java 語言中，下列哪一個方法用於啟動執行緒？",
+        "options": {
+            "A": "start()",
+            "B": "run()",
+            "C": "begin()",
+            "D": "execute()"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 139,
+        "question": "Java 語言中，用於暫停執行緒的方法是？",
+        "options": {
+            "A": "suspend()",
+            "B": "wait()",
+            "C": "pause()",
+            "D": "stop()"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 140,
+        "question": "Java 語言中，哪一個資料結構的查詢效率最高？",
+        "options": {
+            "A": "ArrayList",
+            "B": "LinkedList",
+            "C": "HashMap",
+            "D": "TreeMap"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 141,
+        "question": "在 Java 語言中，下列哪一個集合是無序的？",
+        "options": {
+            "A": "ArrayList",
+            "B": "LinkedList",
+            "C": "HashSet",
+            "D": "TreeSet"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question_number": 142,
+        "question": "Java 語言中，哪一個關鍵字用於聲明類別的成員只能被同一個包中的類別存取？",
+        "options": {
+            "A": "public",
+            "B": "private",
+            "C": "protected",
+            "D": "default"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 143,
+        "question": "Java 語言中，JDBC 的主要用途是？",
+        "options": {
+            "A": "網路傳輸",
+            "B": "資料庫連接",
+            "C": "圖形介面",
+            "D": "編譯程式"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 144,
+        "question": "Java 語言中，哪一個包 (package) 包含基本的資料結構類別，例如 ArrayList 和 HashMap？",
+        "options": {
+            "A": "java.util",
+            "B": "java.io",
+            "C": "java.lang",
+            "D": "java.net"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 145,
+        "question": "在 Java 語言中，若類別沒有繼承任何類別，則默認繼承哪一個類別？",
+        "options": {
+            "A": "Object",
+            "B": "Base",
+            "C": "Default",
+            "D": "Parent"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question_number": 146,
+        "question": "Java 語言中的 HashMap 和 TreeMap 的主要區別是？",
+        "options": {
+            "A": "HashMap 是有序的，TreeMap 是無序的",
+            "B": "HashMap 是無序的，TreeMap 是有序的",
+            "C": "HashMap 是線性結構，TreeMap 是樹狀結構",
+            "D": "HashMap 是靜態的，TreeMap 是動態的"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question_number": 147,
+        "question": "在 Java 語言中，哪一個類別用於讀取檔案？",
+        "options": {
+            "A": "FileReader",
+            "B": "BufferedReader",
+            "C": "FileInputStream",
+            "D": "以上皆是"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 148,
+        "question": "Java 語言中，哪一個類別用於寫入檔案？",
+        "options": {
+            "A": "FileWriter",
+            "B": "BufferedWriter",
+            "C": "FileOutputStream",
+            "D": "以上皆是"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 149,
+        "question": "Java 語言中的類別成員，如果不指定存取修飾符，默認為？",
+        "options": {
+            "A": "public",
+            "B": "private",
+            "C": "protected",
+            "D": "default"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question_number": 150,
+        "question": "Java 語言中的靜態方法 (static method) 可以直接存取哪一種成員？",
+        "options": {
+            "A": "靜態成員",
+            "B": "非靜態成員",
+            "C": "繼承成員",
+            "D": "內部類別"
+        },
+        "correct_answer": "A"
+    }
+]
