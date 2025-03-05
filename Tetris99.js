@@ -1,12 +1,9 @@
-line = 0;
 function fillLine(y) {
-    for (let x = 0; x < countX; x++) {
-        board[x + y * countX] = 0;
+    for (let x = 0; x < 40; x++) {
+        board[x + y * 40] = 0;
     }
-    line++;
     down()
-    check();
-    if (line >= 18) return;
-    setTimeout(() => fillLine(y + 1), 500);
+    check()
+    setTimeout(() => fillLine(y + 1), 1);
 }
-fillLine(10);
+fillLine(0);
