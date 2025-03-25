@@ -37,3 +37,4 @@
 
 # 筆記
 - 權限管理頁面設定：Win + R -> gpedit.msc
+- MemoryCardFlip遊戲CSS修改：<div class="back"> background取消勾選，<div class="front"> display取消勾選
