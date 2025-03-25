@@ -34,3 +34,6 @@
 # 常用網站
 - [Textarea Online](https://textarea.online)
 - [Hackme CTF](https://ctf.hackme.quest/)
+
+# 筆記
+- 權限管理頁面設定：Win + R -> gpedit.msc
