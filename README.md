@@ -38,3 +38,8 @@
 # 筆記
 - 權限管理頁面設定：Win + R -> gpedit.msc
 - MemoryCardFlip遊戲CSS修改：<div class="back"> background取消勾選，<div class="front"> display取消勾選
+- hashcat使用：`hashcat -m ? -a ? <password>
+  - |Num|Type|
+    |0|MD5|
+    |100|sha1|
+    |1400|sha2|
