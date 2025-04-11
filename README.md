@@ -37,7 +37,10 @@
 
 # 筆記
 - 權限管理頁面設定：Win + R -> gpedit.msc
+- 雜湊: MD5 | jnrct114
 - MemoryCardFlip遊戲CSS修改：<div class="back"> background取消勾選，<div class="front"> display取消勾選
+
+## 已完成
 - hashcat使用：`hashcat -m ? -a ? <password>`<br>
 |Num|Type|<br>
 |0|MD5|<br>
@@ -55,4 +58,3 @@
   a. MD5: 32bit
   b. SHA-1: 40bit
   c. ShA-2: 64bit
-- 雜湊: MD5 | jnrct114
